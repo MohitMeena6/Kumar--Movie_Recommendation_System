@@ -6,7 +6,7 @@ A powerful movie recommendation system that helps users discover their next favo
 
 ## 🌟 About The Project
 
-**Movie Magic Recommender** is an intelligent movie recommendation engine created by **Ayush Patel**. The system features a comprehensive database of over 4,700 movies and TV shows, including Hollywood blockbusters, Bollywood films, South Indian cinema, and popular web series. Using advanced natural language processing and TF-IDF vectorization, it provides personalized recommendations based on user queries.
+**Movie Magic Recommender** is an intelligent movie recommendation engine created by **Mohit Kumar Meena**. The system features a comprehensive database of over 4,700 movies and TV shows, including Hollywood blockbusters, Bollywood films, South Indian cinema, and popular web series. Using advanced natural language processing and TF-IDF vectorization, it provides personalized recommendations based on user queries.
 
 ### Key Features
 - 🔍 Natural language search capability
